@@ -54,7 +54,8 @@ $().ready(function() {
       required : "Veuillez entrer un mot de passe"
     },
     confirm : {
-      required : "Merci de confirmer votre mot de passe"
+      required : "Merci de confirmer votre mot de passe",
+      equalTo : "le mot de passe ne correspond pas"
     },
     sex : {
       required : "Quel est votre sex ?"
