@@ -39,8 +39,14 @@ $().ready(function() {
     }
   },
   messages : {
-    firstName : "Veuillez fournir un Nom",
-    lastName : "Veuillez fournir un Prénom",
+    firstName : {
+      required : "Veuillez fournir un Nom",
+      minlength : "Votre Nom semble trop court"
+    },
+    lastName : {
+      required : "Veuillez fournir un Prénom",
+      minlength : "Votre Prénom semble trop court"
+    },
     userName : {
       required : "Veuillez fournir un User Name",
       notEqual : "Les noms dieu, admin, root sont interdit"
