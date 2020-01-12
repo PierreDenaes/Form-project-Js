@@ -18,7 +18,7 @@ Le formulaire d’inscription devra renseigner les informations suivantes :
   dieu@paca.happy-dev.fr
 ### **Projet 1**
 
-> Utilisation de la library Validate.js
+> ##### Utilisation de la library Validate.js
 ![Validate.Js](https://raw.githubusercontent.com/PierreDenaes/Form-project-Js/master/validate-js-form/validate.png)
 
 >[link to Validate.js](https://validatejs.org/)
@@ -28,7 +28,7 @@ Le formulaire d’inscription devra renseigner les informations suivantes :
 
 ### **Projet 2**
 
->Utilisation de Jquery.validate.js
+> ##### Utilisation de Jquery.validate.js
 ![Jquery validation](https://raw.githubusercontent.com/PierreDenaes/Form-project-Js/master/jquery-form/jqueryVal.png)
 
 >[link to jQuery Validation](https://jqueryvalidation.org/)
